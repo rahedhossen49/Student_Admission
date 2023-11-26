@@ -40,7 +40,6 @@ const StudentList = () => {
             <table class="table table-bordered">
               <thead>
                 <tr>
-                  <th>Student Admission</th>
                   <th>First Name</th>
                   <th>Last Name</th>
                   <th>Email</th>
